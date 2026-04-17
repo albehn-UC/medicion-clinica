@@ -1,0 +1,16 @@
+# Credenciales — NUNCA subir
+credentials.json
+report-generator/credentials.json
+
+# Reportes de pacientes — NUNCA subir
+reports/
+report-generator/reports/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# macOS
+.DS_Store
